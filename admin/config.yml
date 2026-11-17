@@ -1,0 +1,71 @@
+# Painel de administração (Decap CMS) do site de Telma Soares.
+# Cada "Publicar" no painel grava um commit no repositório e o site atualiza sozinho.
+#
+# ANTES DE USAR EM PRODUÇÃO (ver LEIA-ME.md, seção "Área de administração"):
+#   1. Confirmar "repo" e "branch" abaixo.
+#   2. Preencher "base_url" com o endereço do serviço de login do GitHub.
+#   Sem o passo 2, a tela de login aparece, mas não conclui a entrada.
+backend:
+  name: github
+  repo: giihuk/site-telma-soares
+  branch: main
+  # base_url: https://ENDERECO-DO-SERVICO-DE-LOGIN
+  commit_messages:
+    create: 'Escritos: cria "{{slug}}"'
+    update: 'Escritos: atualiza {{collection}}'
+    delete: 'Escritos: remove "{{slug}}"'
+    uploadMedia: 'Escritos: envia arquivo "{{path}}"'
+    deleteMedia: 'Escritos: remove arquivo "{{path}}"'
+
+# Para testar no computador, sem login: rode "npx decap-server" na pasta do site.
+local_backend: true
+
+locale: pt
+site_url: https://giihuk.github.io/site-telma-soares/
+display_url: https://giihuk.github.io/site-telma-soares/
+media_folder: content/arquivos
+public_folder: content/arquivos
+
+collections:
+  - name: conteudo
+    label: Escritos
+    files:
+      - name: ensaios
+        label: Ensaios
+        file: content/escritos.json
+        format: json
+        fields:
+          - name: ensaios
+            label: Ensaios
+            label_singular: Ensaio
+            widget: list
+            summary: "{{fields.titulo}} ({{fields.data}})"
+            fields:
+              - { name: titulo, label: Título, widget: string }
+              - { name: slug, label: Endereço do texto, widget: string, pattern: ['^[a-z0-9]+(-[a-z0-9]+)*$', 'Use letras minúsculas, números e hífen'], hint: 'Sem espaços nem acentos. Ex.: ia-e-pesquisa-no-brasil. Não mude depois de publicar.' }
+              - { name: data, label: Data, widget: datetime, format: 'YYYY-MM-DD', date_format: 'DD/MM/YYYY', time_format: false, picker_utc: false }
+              - { name: resumo, label: Resumo, widget: text, hint: 'Uma ou duas frases. Aparece na lista e no destaque da página inicial.' }
+              - { name: corpo, label: Texto, widget: markdown, buttons: [bold, italic, link, heading-two, heading-three, quote, bulleted-list, numbered-list], editor_components: [], modes: [rich_text] }
+              - { name: pdf, label: PDF para download (opcional), widget: file, required: false, hint: 'Se ficar vazio, o leitor ainda pode salvar o texto em PDF pelo botão da página.' }
+              - { name: titulo_en, label: Título em inglês (opcional), widget: string, required: false }
+              - { name: resumo_en, label: Resumo em inglês (opcional), widget: text, required: false }
+              - { name: corpo_en, label: Texto em inglês (opcional), widget: markdown, required: false, buttons: [bold, italic, link, heading-two, heading-three, quote, bulleted-list, numbered-list], editor_components: [], modes: [rich_text] }
+      - name: publicacoes
+        label: Publicações científicas
+        file: content/publicacoes.json
+        format: json
+        fields:
+          - name: publicacoes
+            label: Publicações
+            label_singular: Publicação
+            widget: list
+            summary: "{{fields.ano}} · {{fields.titulo}}"
+            fields:
+              - { name: ano, label: Ano, widget: number, value_type: int }
+              - { name: titulo, label: Título, widget: string }
+              - { name: tipo, label: Tipo, widget: select, options: ['Artigo em periódico', 'Artigo em conferência', 'Preprint', 'Tese de doutorado', 'Dissertação de mestrado', 'Capítulo de livro', 'Relatório'] }
+              - { name: tipo_en, label: Tipo em inglês, widget: select, required: false, options: ['Conference paper', 'Journal article', 'Preprint', 'Doctoral thesis', "Master's dissertation", 'Book chapter', 'Report'] }
+              - { name: veiculo, label: Veículo, widget: string, hint: 'Ex.: ICML, arXiv, IEEE Access, USP' }
+              - { name: coautores, label: Coautores, widget: string, required: false, hint: 'Nomes separados por vírgula, sem incluir a Telma.' }
+              - { name: link_verificado, label: Link conferido na fonte, widget: boolean, required: false, default: true }
+              - { name: url, label: Link da publicação, widget: string, hint: 'Link oficial: DOI, anais, arXiv ou repositório da universidade.' }
