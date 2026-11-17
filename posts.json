@@ -1,0 +1,29 @@
+{
+  "_instrucoes": "Mantenha as 3 publicações mais recentes no topo. Campos: url (link do post), data (texto livre), texto (resumo ou primeiras linhas do post). Opcional: embed (URL de incorporação oficial do LinkedIn, formato https://www.linkedin.com/embed/feed/update/urn:li:share:ID) — se preenchido, o post oficial é exibido no lugar do cartão.",
+  "posts": [
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7514032269473255424/",
+      "data": "Outubro de 2026",
+      "texto": "Entrar na lista IT Forum Mulheres 2026, entre as 35 profissionais reconhecidas em tecnologia no país.",
+      "embed": "https://www.linkedin.com/embed/feed/update/urn:li:activity:7514032269473255424"
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7511872699183366145/",
+      "data": "Outubro de 2026",
+      "texto": "Entrevista à revista Exame sobre inteligência artificial no Brasil.",
+      "embed": "https://www.linkedin.com/embed/feed/update/urn:li:activity:7511872699183366145"
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7509689905887928320/",
+      "data": "Setembro de 2026",
+      "texto": "Entrevista à revista Exame sobre o ritmo de desenvolvimento da inteligência artificial.",
+      "embed": "https://www.linkedin.com/embed/feed/update/urn:li:activity:7509689905887928320"
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7485041756099633152/",
+      "data": "Julho de 2026",
+      "texto": "Ordem do Mérito Anhanguera, concedida pelo Governo de Goiás, ao lado de Anderson Soares.",
+      "embed": "https://www.linkedin.com/embed/feed/update/urn:li:activity:7485041756099633152"
+    }
+  ]
+}
