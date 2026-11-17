@@ -1,0 +1,424 @@
+{
+  "publicacoes": [
+    {
+      "ano": 2026,
+      "tipo": "Preprint",
+      "tipo_en": "Preprint",
+      "veiculo": "arXiv",
+      "titulo": "Do Reasoning Models Ask Better Questions? A Formal Information-Theoretic Analysis on Multi-Turn LLM Games",
+      "coautores": "Daniel M. Pedrozo, Bryan L. M. de Oliveira",
+      "url": "https://dblp.org/search?q=Do%20Reasoning%20Models%20Ask%20Better%20Questions%3F%20A%20Formal%20Information-Theoretic%20Analysis%20on%20Multi-Turn%20LLM%20Games",
+      "link_verificado": false
+    },
+    {
+      "ano": 2026,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "LaCATODA Workshop 2026",
+      "titulo": "Partial Reasoning in Language Models: Search and Refinement Guided by Uncertainty",
+      "coautores": "Murilo Lopes da Luz, Bruno Brandão, Luana G. B. Martins, Gustavo Oliveira, Bryan L. M. de Oliveira, Luckeciano Carvalho Melo",
+      "url": "https://arxiv.org/abs/2601.12040",
+      "link_verificado": true
+    },
+    {
+      "ano": 2025,
+      "tipo": "Preprint",
+      "tipo_en": "Preprint",
+      "veiculo": "arXiv",
+      "titulo": "Learning Without Critics? Revisiting GRPO in Classical Reinforcement Learning Environments",
+      "coautores": "Bryan L. M. de Oliveira, Felipe Vieira Frujeri, Marcos P. C. M. Queiroz, Luana G. B. Martins, Luckeciano C. Melo",
+      "url": "https://arxiv.org/abs/2511.03527",
+      "link_verificado": true
+    },
+    {
+      "ano": 2025,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "SIBGRAPI 2025",
+      "titulo": "Automated Synthetic Data for Computer Vision: Blender-COCO Pipeline Enhancing Yolov8",
+      "coautores": "Victor Roza Souza, Djonathan Caua Fritzen Christ, Igor Scaliante Wiese, Thiago França Naves, Anderson da Silva Soares, Luciana de Oliveira Berretta",
+      "url": "https://dblp.org/search?q=Automated%20Synthetic%20Data%20for%20Computer%20Vision%3A%20Blender-COCO%20Pipeline%20Enhancing%20Yolov8",
+      "link_verificado": false
+    },
+    {
+      "ano": 2025,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "SBSI 2025",
+      "titulo": "Enhancing NeRFs for High-Quality Indoor Video Generation: A Study on Parameterization and Recording Methods",
+      "coautores": "Tafnes Silva Barbosa, Luis Henrique da S. Resende, Iuri Almeida Pereira, Igor Scaliante Wiese, Thiago França Naves, Anderson da Silva Soares",
+      "url": "https://dblp.org/search?q=Enhancing%20NeRFs%20for%20High-Quality%20Indoor%20Video%20Generation%3A%20A%20Study%20on%20Parameterization%20and%20Recording%20Methods",
+      "link_verificado": false
+    },
+    {
+      "ano": 2025,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "ICML 2025",
+      "titulo": "Sliding Puzzles Gym: A Scalable Benchmark for State Representation in Visual Reinforcement Learning",
+      "coautores": "Bryan Lincoln Marques de Oliveira, Luana Guedes Barros Martins, Bruno Brandão, Murilo Lopes da Luz, Luckeciano Carvalho Melo",
+      "url": "https://proceedings.mlr.press/v267/de-oliveira25a.html",
+      "link_verificado": true
+    },
+    {
+      "ano": 2024,
+      "tipo": "Artigo em periódico",
+      "tipo_en": "Journal article",
+      "veiculo": "Sensors",
+      "titulo": "Deep Deterministic Policy Gradient-Based Resource Allocation Considering Network Slicing and Device-to-Device Communication in Mobile Networks",
+      "coautores": "Hudson Henrique De Souza Lopes, Lucas Jose Ferreira Lima, Flávio Henrique Teles Vieira",
+      "url": "https://dblp.org/search?q=Deep%20Deterministic%20Policy%20Gradient-Based%20Resource%20Allocation%20Considering%20Network%20Slicing%20and%20Device-to-Device%20Communication%20in%20Mobile%20Networks",
+      "link_verificado": false
+    },
+    {
+      "ano": 2024,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "SVR 2024",
+      "titulo": "Fine-Tuning a Video Masked Autoencoder to Develop an Augmented Reality Application for Brazilian Sign Language Interpretation",
+      "coautores": "Rodrigo Zempulski Fanucchi, Arlindo Rodrigues Galvão Junior, Gabriel da Mata Marques, Lucas Brandão Rodrigues, Anderson da Silva Soares",
+      "url": "https://dblp.org/search?q=Fine-Tuning%20a%20Video%20Masked%20Autoencoder%20to%20Develop%20an%20Augmented%20Reality%20Application%20for%20Brazilian%20Sign%20Language%20Interpretation",
+      "link_verificado": false
+    },
+    {
+      "ano": 2022,
+      "tipo": "Artigo em periódico",
+      "tipo_en": "Journal article",
+      "veiculo": "IEEE Access",
+      "titulo": "Multiagent Reinforcement Learning for Strategic Decision Making and Control in Robotic Soccer Through Self-Play",
+      "coautores": "Bruno Brandão, Anderson Soares, Luckeciano C. Melo, Marcos R. O. A. Máximo",
+      "url": "https://dblp.org/search?q=Multiagent%20Reinforcement%20Learning%20for%20Strategic%20Decision%20Making%20and%20Control%20in%20Robotic%20Soccer%20Through%20Self-Play",
+      "link_verificado": false
+    },
+    {
+      "ano": 2022,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "Intelligent Systems and Applications 2022",
+      "titulo": "A Hybrid Predictor for Protein Tertiary Structures",
+      "coautores": "Alexandre Almeida",
+      "url": "https://dblp.org/search?q=A%20Hybrid%20Predictor%20for%20Protein%20Tertiary%20Structures",
+      "link_verificado": false
+    },
+    {
+      "ano": 2020,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "PPSN XVI",
+      "titulo": "On Sharing Information Between Sub-populations in MOEA/S",
+      "coautores": "Lucas de Almeida Ribeiro, Michael Emmerich, Anderson da Silva Soares",
+      "url": "https://dblp.org/search?q=On%20Sharing%20Information%20Between%20Sub-populations%20in%20MOEA/S",
+      "link_verificado": false
+    },
+    {
+      "ano": 2020,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "GECCO 2020",
+      "titulo": "New search operators for node-depth based encoding",
+      "coautores": "Gustavo Post Sabin, Anderson da Silva Soares",
+      "url": "https://dblp.org/search?q=New%20search%20operators%20for%20node-depth%20based%20encoding",
+      "link_verificado": false
+    },
+    {
+      "ano": 2019,
+      "tipo": "Artigo em periódico",
+      "tipo_en": "Journal article",
+      "veiculo": "Engineering Applications of Artificial Intelligence",
+      "titulo": "Epistasis-based FSA: Two versions of a novel approach for variable selection in multivariate calibration",
+      "coautores": "Lauro C. M. de Paula, Anderson da Silva Soares, Celso G. Camilo-Junior, Clarimar José Coelho, Anselmo E. de Oliveira",
+      "url": "https://dblp.org/search?q=Epistasis-based%20FSA%3A%20Two%20versions%20of%20a%20novel%20approach%20for%20variable%20selection%20in%20multivariate%20calibration",
+      "link_verificado": false
+    },
+    {
+      "ano": 2019,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "IEEE ICTAI 2019",
+      "titulo": "Generating Reduced Tests for FSMs using a Search-Based Testing Approach",
+      "coautores": "Mariana Soller Ramada, Anderson da Silva Soares, Adenilso Simão",
+      "url": "https://dblp.org/search?q=Generating%20Reduced%20Tests%20for%20FSMs%20using%20a%20Search-Based%20Testing%20Approach",
+      "link_verificado": false
+    },
+    {
+      "ano": 2017,
+      "tipo": "Artigo em periódico",
+      "tipo_en": "Journal article",
+      "veiculo": "Journal of Computer Science",
+      "titulo": "Modern Metaheuristic with Multi-Objective Formulation for the Variable Selection Problem",
+      "coautores": "Lauro Cássio Martins de Paula, Anderson da Silva Soares, Anselmo E. de Oliveira, Clarimar José Coelho",
+      "url": "https://dblp.org/search?q=Modern%20Metaheuristic%20with%20Multi-Objective%20Formulation%20for%20the%20Variable%20Selection%20Problem",
+      "link_verificado": false
+    },
+    {
+      "ano": 2017,
+      "tipo": "Artigo em periódico",
+      "tipo_en": "Journal article",
+      "veiculo": "Computing",
+      "titulo": "Parallel regressions for variable selection using GPU",
+      "coautores": "Lauro Cássio Martins de Paula, Anderson da Silva Soares, Arlindo R. G. Filho, Clarimar José Coelho, Alexandre C. B. Delbem, Wellington Santos Martins",
+      "url": "https://dblp.org/search?q=Parallel%20regressions%20for%20variable%20selection%20using%20GPU",
+      "link_verificado": false
+    },
+    {
+      "ano": 2017,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "GECCO 2017",
+      "titulo": "Variable selection as a non-completely decomposable problem: a case study in multivariate calibration",
+      "coautores": "Lauro C. M. de Paula, Anderson da Silva Soares, Clarimar José Coelho",
+      "url": "https://dblp.org/search?q=Variable%20selection%20as%20a%20non-completely%20decomposable%20problem%3A%20a%20case%20study%20in%20multivariate%20calibration",
+      "link_verificado": false
+    },
+    {
+      "ano": 2017,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "Progress in Artificial Intelligence (EPIA) 2017",
+      "titulo": "A Stochastic Approach of SIRC Model Using Individual-Based Epidemiological Models",
+      "coautores": "Arlindo Rodrigues Galvão Filho, Anderson da Silva Soares, Clarimar José Coelho",
+      "url": "https://dblp.org/search?q=A%20Stochastic%20Approach%20of%20SIRC%20Model%20Using%20Individual-Based%20Epidemiological%20Models",
+      "link_verificado": false
+    },
+    {
+      "ano": 2017,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "IEEE CEC 2017",
+      "titulo": "Integer-based genetic algorithm for feature selection in multivariate calibration",
+      "coautores": "Rhelcris S. Sousa, Lauro C. M. de Paula, Roney Lopes Lima, Arlindo R. G. Filho, Anderson da Silva Soares",
+      "url": "https://dblp.org/search?q=Integer-based%20genetic%20algorithm%20for%20feature%20selection%20in%20multivariate%20calibration",
+      "link_verificado": false
+    },
+    {
+      "ano": 2016,
+      "tipo": "Artigo em periódico",
+      "tipo_en": "Journal article",
+      "veiculo": "Swarm and Evolutionary Computation",
+      "titulo": "Node-depth phylogenetic-based encoding, a spanning-tree representation for evolutionary algorithms. Part I: Proposal and properties analysis",
+      "coautores": "Alexandre Cláudio Botazzo Delbem, Anderson da Silva Soares, Fernando Marques Federson, João Bosco Augusto London Junior, Jeffrey Van Baalen",
+      "url": "https://dblp.org/search?q=Node-depth%20phylogenetic-based%20encoding%2C%20a%20spanning-tree%20representation%20for%20evolutionary%20algorithms.%20Part%20I%3A%20Proposal%20and%20properties%20analysis",
+      "link_verificado": false
+    },
+    {
+      "ano": 2016,
+      "tipo": "Artigo em periódico",
+      "tipo_en": "Journal article",
+      "veiculo": "Computers and Electronics in Agriculture",
+      "titulo": "A feasibility cachaca type recognition using computer vision and pattern recognition",
+      "coautores": "Bruno Urbano Rodrigues, Anderson da Silva Soares, Ronaldo Martins da Costa, Jeffrey Van Baalen, Rogerio Lopes Salvini, F. A. Silva, Márcio Caliari, Karla Cristina Rodrigues Cardoso, Tânia Isabel Monteiro Ribeiro, Alexandre C. B. Delbem, Fernando Marques Federson, Clarimar José Coelho, Gustavo Teodoro Laureano",
+      "url": "https://dblp.org/search?q=A%20feasibility%20cachaca%20type%20recognition%20using%20computer%20vision%20and%20pattern%20recognition",
+      "link_verificado": false
+    },
+    {
+      "ano": 2016,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "ICCS 2016",
+      "titulo": "An Evolutionary Algorithm for Autonomous Robot Navigation",
+      "coautores": "Anderson da Silva Soares",
+      "url": "https://dblp.org/search?q=An%20Evolutionary%20Algorithm%20for%20Autonomous%20Robot%20Navigation",
+      "link_verificado": false
+    },
+    {
+      "ano": 2016,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "ICCS 2016",
+      "titulo": "Permutation-based Recombination Operator to Node-depth Encoding",
+      "coautores": "Alexandre C. B. Delbem, Roney Lopes Lima, Gustavo Post Sabin, Marcos Antônio Almeida de Oliveira",
+      "url": "https://dblp.org/search?q=Permutation-based%20Recombination%20Operator%20to%20Node-depth%20Encoding",
+      "link_verificado": false
+    },
+    {
+      "ano": 2016,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "GECCO 2016",
+      "titulo": "Variable Selection for Multivariate Calibration in Chemometrics: A Real-World Application with Building Blocks Disruption Problem",
+      "coautores": "Lauro C. M. de Paula, Anderson da Silva Soares, Arlindo R. G. Filho, Clarimar José Coelho",
+      "url": "https://dblp.org/search?q=Variable%20Selection%20for%20Multivariate%20Calibration%20in%20Chemometrics%3A%20A%20Real-World%20Application%20with%20Building%20Blocks%20Disruption%20Problem",
+      "link_verificado": false
+    },
+    {
+      "ano": 2016,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "GECCO 2016",
+      "titulo": "Feature Selection using Genetic Algorithm: An Analysis of the Bias-Property for One-Point Crossover",
+      "coautores": "Lauro C. M. de Paula, Anderson da Silva Soares, Clarimar José Coelho",
+      "url": "https://dblp.org/search?q=Feature%20Selection%20using%20Genetic%20Algorithm%3A%20An%20Analysis%20of%20the%20Bias-Property%20for%20One-Point%20Crossover",
+      "link_verificado": false
+    },
+    {
+      "ano": 2016,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "IEEE CEC 2016",
+      "titulo": "A compact firefly algorithm for the variable selection problem in pharmaceutical ingredient determination",
+      "coautores": "Lauro C. M. de Paula, Heber V. Nogueira, Anderson da Silva Soares, Clarimar José Coelho",
+      "url": "https://dblp.org/search?q=A%20compact%20firefly%20algorithm%20for%20the%20variable%20selection%20problem%20in%20pharmaceutical%20ingredient%20determination",
+      "link_verificado": false
+    },
+    {
+      "ano": 2015,
+      "tipo": "Artigo em periódico",
+      "tipo_en": "Journal article",
+      "veiculo": "Journal of Computer Science",
+      "titulo": "Genetic Algorithm for Variable and Samples Selection in Multivariate Calibration Problems",
+      "coautores": "Kelton de Souza Santiago, Anderson da Silva Soares, Clarimar José Coelho, Paulo Henrique Ribeiro Gabriel",
+      "url": "https://dblp.org/search?q=Genetic%20Algorithm%20for%20Variable%20and%20Samples%20Selection%20in%20Multivariate%20Calibration%20Problems",
+      "link_verificado": false
+    },
+    {
+      "ano": 2015,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "ICCS 2015",
+      "titulo": "Multi-objective Genetic Algorithm for Variable Selection in Multivariate Classification Problems: A Case Study in Verification of Biodiesel Adulteration",
+      "coautores": "Lucas de Almeida Ribeiro, Anderson da Silva Soares, Carlos Antônio Campos Jorge, Ronaldo Martins da Costa, Rogerio Lopes Salvini, Clarimar José Coelho, Fernando Marques Federson, Paulo Henrique Ribeiro Gabriel",
+      "url": "https://dblp.org/search?q=Multi-objective%20Genetic%20Algorithm%20for%20Variable%20Selection%20in%20Multivariate%20Classification%20Problems%3A%20A%20Case%20Study%20in%20Verification%20of%20Biodiesel%20Adulteration",
+      "link_verificado": false
+    },
+    {
+      "ano": 2015,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "EMO 2015",
+      "titulo": "Multi-objective Evolutionary Algorithm with Discrete Differential Mutation Operator for Service Restoration in Large-Scale Distribution Systems",
+      "coautores": "Danilo Sipoli Sanches, João Bosco A. London Jr., Alexandre Cláudio Botazzo Delbem, Ricardo S. Prado, Frederico G. Guimarães",
+      "url": "https://dblp.org/search?q=Multi-objective%20Evolutionary%20Algorithm%20with%20Discrete%20Differential%20Mutation%20Operator%20for%20Service%20Restoration%20in%20Large-Scale%20Distribution%20Systems",
+      "link_verificado": false
+    },
+    {
+      "ano": 2014,
+      "tipo": "Artigo em periódico",
+      "tipo_en": "Journal article",
+      "veiculo": "International Journal of Natural Computing Research",
+      "titulo": "Parallelization of a Modified Firefly Algorithm using GPU for Variable Selection in a Multivariate Calibration Problem",
+      "coautores": "Lauro C. M. de Paula, Anderson da Silva Soares, Alexandre C. B. Delbem, Clarimar José Coelho, Arlindo Rodrigues Galvão Filho",
+      "url": "https://dblp.org/search?q=Parallelization%20of%20a%20Modified%20Firefly%20Algorithm%20using%20GPU%20for%20Variable%20Selection%20in%20a%20Multivariate%20Calibration%20Problem",
+      "link_verificado": false
+    },
+    {
+      "ano": 2013,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "ICAISC 2013",
+      "titulo": "Hybrid Genetic-Fuzzy Algorithm for Variable Selection in Spectroscopy",
+      "coautores": "Anderson da Silva Soares, Clarimar José Coelho, Rogerio Salvini, Gustavo Teodoro Laureano",
+      "url": "https://dblp.org/search?q=Hybrid%20Genetic-Fuzzy%20Algorithm%20for%20Variable%20Selection%20in%20Spectroscopy",
+      "link_verificado": false
+    },
+    {
+      "ano": 2013,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "IEEE CEC 2013",
+      "titulo": "Multi-objective evolutionary algorithm for variable selection in calibration problems: A case study for protein concentration prediction",
+      "coautores": "Daniel Vitor de Lucena, Anderson da Silva Soares, Alexandre C. B. Delbem, Arlindo Rodrigues Galvão Filho, Clarimar José Coelho, Gustavo Teodoro Laureano",
+      "url": "https://dblp.org/search?q=Multi-objective%20evolutionary%20algorithm%20for%20variable%20selection%20in%20calibration%20problems%3A%20A%20case%20study%20for%20protein%20concentration%20prediction",
+      "link_verificado": false
+    },
+    {
+      "ano": 2012,
+      "tipo": "Artigo em periódico",
+      "tipo_en": "Journal article",
+      "veiculo": "IEEE Transactions on Evolutionary Computation",
+      "titulo": "Efficient Forest Data Structure for Evolutionary Algorithms Applied to Network Design",
+      "coautores": "Alexandre C. B. Delbem, Guilherme P. Telles",
+      "url": "https://dblp.org/search?q=Efficient%20Forest%20Data%20Structure%20for%20Evolutionary%20Algorithms%20Applied%20to%20Network%20Design",
+      "link_verificado": false
+    },
+    {
+      "ano": 2012,
+      "tipo": "Artigo em periódico",
+      "tipo_en": "Journal article",
+      "veiculo": "International Journal of Natural Computing Research",
+      "titulo": "Multi-Objective Evolutionary Algorithm NSGA-II for Variables Selection in Multivariate Calibration Problems",
+      "coautores": "Daniel Vitor de Lucena, Anderson da Silva Soares, Clarimar José Coelho",
+      "url": "https://dblp.org/search?q=Multi-Objective%20Evolutionary%20Algorithm%20NSGA-II%20for%20Variables%20Selection%20in%20Multivariate%20Calibration%20Problems",
+      "link_verificado": false
+    },
+    {
+      "ano": 2011,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "GECCO 2011",
+      "titulo": "Analysis of properties of recombination operators proposed for the node-depth encoding",
+      "coautores": "Alexandre Cláudio Botazzo Delbem, Franz Rothlauf",
+      "url": "https://dblp.org/search?q=Analysis%20of%20properties%20of%20recombination%20operators%20proposed%20for%20the%20node-depth%20encoding",
+      "link_verificado": false
+    },
+    {
+      "ano": 2009,
+      "tipo": "Tese de doutorado",
+      "tipo_en": "Doctoral thesis",
+      "veiculo": "USP",
+      "titulo": "Estruturas de dados eficientes para algoritmos evolutivos aplicados a projeto de redes",
+      "coautores": "",
+      "url": "https://teses.usp.br/teses/disponiveis/55/55134/tde-28052009-163303/pt-br.html",
+      "link_verificado": true
+    },
+    {
+      "ano": 2008,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "GECCO 2008",
+      "titulo": "The node-depth encoding: analysis and application to the bounded-diameter minimum spanning tree problem",
+      "coautores": "Franz Rothlauf, Alexandre C. B. Delbem",
+      "url": "https://dblp.org/search?q=The%20node-depth%20encoding%3A%20analysis%20and%20application%20to%20the%20bounded-diameter%20minimum%20spanning%20tree%20problem",
+      "link_verificado": false
+    },
+    {
+      "ano": 2007,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "GECCO 2007",
+      "titulo": "Evolutionary approach to protein structure prediction with hydrophobic interactions",
+      "coautores": "Rodrigo Antonio Faccioli, Paulo Henrique Ribeiro Gabriel, Alexandre C. B. Delbem, Ivan Nunes da Silva",
+      "url": "https://dblp.org/search?q=Evolutionary%20approach%20to%20protein%20structure%20prediction%20with%20hydrophobic%20interactions",
+      "link_verificado": false
+    },
+    {
+      "ano": 2007,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "IEEE CEC 2007",
+      "titulo": "Evolutionary algorithm to ab initio protein structure prediction with hydrophobic interactions",
+      "coautores": "Paulo Henrique Ribeiro Gabriel, Alexandre C. B. Delbem, Rodrigo Antonio Faccioli, Ivan Nunes da Silva",
+      "url": "https://dblp.org/search?q=Evolutionary%20algorithm%20to%20ab%20initio%20protein%20structure%20prediction%20with%20hydrophobic%20interactions",
+      "link_verificado": false
+    },
+    {
+      "ano": 2006,
+      "tipo": "Dissertação de mestrado",
+      "tipo_en": "Master's dissertation",
+      "veiculo": "USP",
+      "titulo": "Algoritmos evolutivos para predição de estruturas de proteínas",
+      "coautores": "",
+      "url": "https://teses.usp.br/teses/disponiveis/55/55134/tde-30092006-110850/pt-br.html",
+      "link_verificado": true
+    },
+    {
+      "ano": 2005,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "IEA/AIE 2005",
+      "titulo": "Node-Depth Encoding for Evolutionary Algorithms Applied to Multi-vehicle Routing Problem",
+      "coautores": "Giampaolo L. Libralao, Fabio C. Pereira, Alexandre C. B. Delbem",
+      "url": "https://dblp.org/search?q=Node-Depth%20Encoding%20for%20Evolutionary%20Algorithms%20Applied%20to%20Multi-vehicle%20Routing%20Problem",
+      "link_verificado": false
+    },
+    {
+      "ano": 2005,
+      "tipo": "Artigo em conferência",
+      "tipo_en": "Conference paper",
+      "veiculo": "IEEE CEC 2005",
+      "titulo": "Node-depth encoding for directed graphs",
+      "coautores": "Giampaolo L. Libralao, Karen Honda, Alexandre C. B. Delbem",
+      "url": "https://dblp.org/search?q=Node-depth%20encoding%20for%20directed%20graphs",
+      "link_verificado": false
+    }
+  ]
+}
